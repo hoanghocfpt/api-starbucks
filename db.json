@@ -140,22 +140,6 @@
           "category": "goods",
           "category2": "bag",
           "slug": "tui-dung-to-go-mau-den"
-        },
-        {
-          "_id": "6658903cc18bb999e38bbc7b",
-          "name": "Túi đựng mua sắm bằng giấy thủ công size S",
-          "price": 155000,
-          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_1_m.jpg",
-          "images": [
-            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_1_m.jpg",
-            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_3_m.jpg",
-            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_4_m.jpg",
-            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_5_m.jpg"
-          ],
-          "description": "Người mua sắm có thể tái sử dụng này là bản sao giấy kraft của Paper Shopper S được cung cấp tại các cửa hàng Starbucks. So với những người mua hàng thông thường, chất liệu của tay cầm và thân chính dày hơn và chắc chắn hơn nên có thể sử dụng nhiều lần.",
-          "category": "goods",
-          "category2": "bag",
-          "slug": "tui-dung-mua-sam-bang-giay-thu-cong-size-s"
         }
     ],
     "categories": [
