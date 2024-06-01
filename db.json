@@ -1,0 +1,178 @@
+{
+    "products": [
+        {
+          "_id": "66587535c18bb999e38bbc69",
+          "name": "Coffee",
+          "price": 2000,
+          "image": "/img.png",
+          "description": "mota",
+          "category": "coffee",
+          "slug": "coffee"
+        },
+        {
+          "_id": "665880dbc18bb999e38bbc6d",
+          "name": "Latte đậu vani",
+          "image": "https://starbucks.phamvanhoang.com/view/images/lattevani.jpg",
+          "description": "Café latte với sự hòa quyện mượt mà của si-rô đậu vani cao cấp dành riêng cho sản phẩm dự trữ",
+          "category": "drink",
+          "category2": "espresso",
+          "slug": "latte-dau-vani"
+        },
+        {
+          "_id": "6658815ac18bb999e38bbc6e",
+          "name": "Cappuccino",
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785000285/4524785000285_11_s.jpg",
+          "description": "Capuchino là thức uống hòa quyện giữa hương thơm của sữa, vị béo của bọt kem cùng vị đậm đà từ cà phê Espresso. Tất cả tạo nên một hương vị tuyệt vời.",
+          "category": "drink",
+          "category2": "espresso",
+          "slug": "cappuccino"
+        },
+        {
+          "_id": "6658823ac18bb999e38bbc6f",
+          "name": "Caramel Macchiato",
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785019232/4524785019232_11_s.jpg",
+          "description": "Caramel Macchiato bắt đầu từ dòng sữa tươi và lớp bọt sữa béo ngậy, sau đó hòa quyện cùng cà phê espresso đậm đà và sốt caramel ngọt ngào.",
+          "category": "drink",
+          "category2": "espresso",
+          "slug": "caramel-macchiato"
+        },
+        {
+          "_id": "665882b3c18bb999e38bbc70",
+          "name": "Caffè Mocha",
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785000254/4524785000254_11_s.jpg",
+          "description": "Mocha là món đồ uống được hòa trộn giữa cà phê, sữa và chocolate.",
+          "category": "drink",
+          "category2": "espresso",
+          "slug": "caffe-mocha"
+        },
+        {
+          "_id": "66588366c18bb999e38bbc71",
+          "name": "Trà Matcha Latte",
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785106499/4524785106499_1_m.jpg",
+          "description": "Một loại latte phổ biến được làm từ matcha và sữa được lựa chọn cẩn thận. Bằng cách thêm vừa đủ vị ngọt vào matcha vị đắng, bạn có thể thưởng thức hương vị đậm đà hơn.",
+          "category": "drink",
+          "category2": "tea",
+          "slug": "tra-matcha-latte"
+        },
+        {
+          "_id": "66588420c18bb999e38bbc72",
+          "name": "Mocha đen Frappuccino",
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785166059/4524785166059_1_m.jpg",
+          "description": "Frappuccino®, sự pha trộn giữa cà phê, sữa, bột sô cô la đen và sô cô la chip với đá, được khuyên dùng cho những người yêu thích sô cô la. Thưởng thức sự hài hòa giữa vị đắng của cà phê và sô cô la đen và kết cấu của sô cô la chip.",
+          "category": "drink",
+          "category2": "frappuccino",
+          "slug": "mocha-den-frappuccino"
+        },
+        {
+          "_id": "66588493c18bb999e38bbc73",
+          "name": "Caramel Frappuccino",
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785165816/4524785165816_1_m.jpg",
+          "description": "Frappuccino® là sự pha trộn giữa cà phê, sữa, siro caramel và đá được nhiều khách hàng yêu thích. Thưởng thức hương vị caramel đậm đà, hơi thơm khi trộn với kem đánh bông và sốt caramel phủ trên.",
+          "category": "drink",
+          "category2": "frappuccino",
+          "slug": "caramel-frappuccino"
+        },
+        {
+          "_id": "665884f2c18bb999e38bbc74",
+          "name": "Dâu Frappuccino",
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785461062/4524785461062_1_m.jpg",
+          "description": "Frappuccino® được phủ sốt dâu tây, sữa và kem tươi nguyên bản của Starbucks. Hương vị chua ngọt ngọt ngào của nước sốt dâu tây, vị trái cây, vị sữa và vị béo mịn của kem đánh bông hòa quyện với nhau. Màu đỏ tươi của viên bi khi nhân viên pha chế rót đồ uống đã hoàn thành vào cốc rất đẹp và sự tương phản giữa nước sốt dâu tây và nền sữa mang lại ấn tượng khác nhau mỗi khi bạn uống, không chỉ về hình thức mà còn về hương vị.",
+          "category": "drink",
+          "category2": "frappuccino",
+          "slug": "dau-frappuccino"
+        },
+        {
+          "_id": "66588870c18bb999e38bbc75",
+          "name": "Bánh cuộn bột chuối",
+          "price": 65000,
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785562707/4524785562707_1_m.jpg",
+          "description": "Món kem chuối ăn kèm với bột có vị ngọt dịu nhẹ được làm bằng cách trộn chuối xay nhuyễn với kem tươi làm từ thực vật. Một loại bánh cuộn làm từ thực vật, không chứa lúa mì.",
+          "category": "food",
+          "category2": "cake",
+          "slug": "banh-cuon-bot-chuoi"
+        },
+        {
+          "_id": "66588978c18bb999e38bbc76",
+          "name": "Bánh mì thịt viên nướng phô mai Ham & Maribo bằng đá",
+          "price": 75000,
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785447462/4524785447462_1_m.jpg",
+          "description": "Fillone nướng trong lò đá được phủ một lớp dầu ô liu và kẹp với giăm bông vai và phô mai Maribo. Khi bạn cắn một miếng, mùi thơm và hương vị đậm đà của thịt giăm bông hun khói hai lần cùng vị êm dịu và đậm đà của phô mai tràn ngập trong miệng bạn.",
+          "category": "food",
+          "category2": "sandwich",
+          "slug": "banh-mi-thit-vien-nuong-pho-mai-ham-maribo-bang-da"
+        },
+        {
+          "_id": "66588a08c18bb999e38bbc77",
+          "name": "Bánh mì Campagne nướng bơ đá tôm",
+          "price": 95000,
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785542631/4524785542631_1_m.jpg",
+          "description": "Tôm, salad bơ (quả bơ, bột bơ, sốt mayonnaise) và lá xanh được kẹp giữa món campagne ngũ cốc nguyên hạt thơm lừng nướng trong lò đá. Nước sốt kem có sự cân bằng giữa vị ngọt, đậm đà và chua, vừa sảng khoái vừa làm nổi bật vị ngon của tôm và bơ.",
+          "category": "food",
+          "category2": "sandwich",
+          "slug": "banh-mi-campagne-nuong-bo-da-tom"
+        },
+        {
+          "_id": "66588a7bc18bb999e38bbc78",
+          "name": "Bánh mì nướng xúc xích Vina bằng đá",
+          "price": 95000,
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785516144/4524785516144_1_m.jpg",
+          "description": "Thịt filone nướng bằng đá được làm từ xúc xích arabiki ngon ngọt, khoai tây nướng vị cà ri hấp dẫn, hành tây xào và sốt mù tạt.",
+          "category": "food",
+          "category2": "sandwich",
+          "slug": "banh-mi-nuong-xuc-xich-vina-bang-da"
+        },
+        {
+          "_id": "66588ae9c18bb999e38bbc79",
+          "name": "Bánh muffin bột gạo chuối",
+          "price": 35000,
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785562684/4524785562684_1_m.jpg",
+          "description": "Bánh nướng xốp làm từ thực vật, không chứa lúa mì.",
+          "category": "food",
+          "category2": "cake",
+          "slug": "banh-muffin-bot-bao-chuoi"
+        },
+        {
+          "_id": "66588ef7c18bb999e38bbc7a",
+          "name": "Túi đựng TO GO màu đen",
+          "price": 155000,
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785379657/4524785379657_1_m.jpg",
+          "description": "Logo chữ đơn giản được vẽ trên thân túi, khi gấp lại sẽ in logo còi báo động. Được tạo điểm nhấn bằng dây kéo có biểu tượng còi báo động mờ.",
+          "category": "goods",
+          "category2": "bag",
+          "slug": "tui-dung-to-go-mau-den"
+        },
+        {
+          "_id": "6658903cc18bb999e38bbc7b",
+          "name": "Túi đựng mua sắm bằng giấy thủ công size S",
+          "price": 155000,
+          "image": "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_1_m.jpg",
+          "images": [
+            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_1_m.jpg",
+            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_3_m.jpg",
+            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_4_m.jpg",
+            "https://asset.menu.starbucks.co.jp/public/sku_images/4524785522916/4524785522916_5_m.jpg"
+          ],
+          "description": "Người mua sắm có thể tái sử dụng này là bản sao giấy kraft của Paper Shopper S được cung cấp tại các cửa hàng Starbucks. So với những người mua hàng thông thường, chất liệu của tay cầm và thân chính dày hơn và chắc chắn hơn nên có thể sử dụng nhiều lần.",
+          "category": "goods",
+          "category2": "bag",
+          "slug": "tui-dung-mua-sam-bang-giay-thu-cong-size-s"
+        }
+    ],
+    "categories": [
+        {
+          "_id": "66587b34c18bb999e38bbc6b",
+          "name": "Đồ uống",
+          "slug": "drink"
+        },
+        {
+          "_id": "66589d72c18bb999e38bbc81",
+          "name": "Đồ ăn",
+          "slug": "food"
+        },
+        {
+          "_id": "66589d7ec18bb999e38bbc82",
+          "name": "Mặt hàng khác",
+          "slug": "goods"
+        }
+    ]
+}
